@@ -286,6 +286,10 @@ PRODUCT_PACKAGES += \
 # Recovery
 PRODUCT_PACKAGES += \
     librecovery_updater_chiron
+	
+# Releasetools
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/fbe_check.sh:install/bin/fbe_check.sh
 
 # RIL
 PRODUCT_PACKAGES += \

@@ -208,3 +208,9 @@ qemu.hw.mainkeys=0
 persist.service.adb.enable=1
 persist.service.debuggable=1
 persist.sys.usb.config=mtp,adb
+
+# config usb port
+sys.usb.controller=a800000.dwc3
+sys.usb.rndis.func.name=gsi
+sys.usb.rmnet.func.name=gsi
+
