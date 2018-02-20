@@ -3,8 +3,11 @@ Copyright (C) 2017 The LineageOS Project
 Device configuration for Xiaomi Mi MIX 2
 =========================================
 
-Modified to create Android 8.1 based TWRP recovery builds.
+Modified to create Android 8.1 based TWRP recovery builds.  
 TWRP Base to use with: https://github.com/nextgen-networks/android_bootable_recovery/tree/android-8.1_v6-testing
+
+... more information about setup your build environment & start a build:  
+https://github.com/nextgen-networks/android_device_xiaomi_chiron-LOS/wiki
 
 The Xiaomi Mi MIX 2 (codenamed _"Chiron"_) is a high-end smartphone from Xiaomi.
 
