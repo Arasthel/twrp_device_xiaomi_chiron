@@ -1,4 +1,4 @@
-Copyright (C) 2017 The LineageOS Project
+Copyright (C) 2017/2018 The LineageOS Project & Copyright (C) 2018 Nextgen-Networks
 
 Device configuration for Xiaomi Mi MIX 2
 =========================================
@@ -8,6 +8,12 @@ TWRP Base to use with: https://github.com/nextgen-networks/android_bootable_reco
 
 ... more information about setup your build environment & start a build:  
 https://github.com/nextgen-networks/android_device_xiaomi_chiron-LOS/wiki
+
+This device tree is intended to be used for devices with OS flavours as follows:  
+* LineageOS
+* Resurrection Remix
+* AOSP
+* AICP
 
 The Xiaomi Mi MIX 2 (codenamed _"Chiron"_) is a high-end smartphone from Xiaomi.
 
